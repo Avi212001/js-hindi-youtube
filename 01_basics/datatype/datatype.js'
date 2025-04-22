@@ -1,0 +1,2 @@
+//we are using node js not browser so that why when we use node.js as a complier for javascript we dont use alert so show popup
+//we use semicolon because we see the code is readable 
